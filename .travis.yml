@@ -1,4 +1,4 @@
 language: java
 
 script
-  - java HelloWorld.java
+  - javac HelloWorld.java
